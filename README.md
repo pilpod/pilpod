@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In construction :kissing:
+:kissing:
 
 Put a smile in your life :smile:
 
