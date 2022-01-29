@@ -4,7 +4,7 @@
 
 Put a smile in your life :smile:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilpod)](https://github.com/pilpod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=pilpod&show_icons=true&theme=dark)](https://github.com/pilpod/github-readme-stats)
 
 
 <!--
