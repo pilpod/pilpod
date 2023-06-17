@@ -6,9 +6,9 @@ Put a smile in your life :smile:
 
 Work repository (lot of repositories are private, sorry 😅): https://github.com/giacomoF5
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=pilpod&show_icons=true&theme=dark)](https://github.com/pilpod/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilpod&show_icons=true&theme=dark)](https://github.com/pilpod/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/?username=pilpod&show_icons=true&theme=dark)](https://github.com/pilpod/github-readme-stats) -->
 
 
 <!--
